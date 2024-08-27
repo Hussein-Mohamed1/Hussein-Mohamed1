@@ -21,7 +21,7 @@ I'm looking to collaborate on open-source projects and web applications. If you 
 <hr style="border: 1px solid #ddd;">
 
 ### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-mohamed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-mohamed-b10b89283/)
 
 <hr style="border: 1px solid #ddd;">
 
