@@ -1,31 +1,61 @@
-## Hi there 👋
+# Hi there 👋
 
-<p style="font-size: 1.5em; font-weight: bold;">
-I'm Hussein Mohamed, a passionate learner and developer currently diving deep into the world of Web Development. I'm a student in the Computer Department at Cairo University, where I enjoy exploring new technologies, building projects, and collaborating with others to create innovative solutions.
+<div align="center">
+  <h2 style="font-size: 1.5em; font-weight: bold;">
+    I'm Hussein Mohamed
+  </h2>
+  <p style="font-size: 1.2em;">
+    A passionate learner and developer currently diving deep into the world of Web Development.<br>
+    I'm a student in the Computer Department at Cairo University, where I enjoy exploring new technologies,<br> 
+    building projects, and collaborating with others to create innovative solutions.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-Learner-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-yellow?style=flat-square" />
+</div>
+
+---
+
+## 🌱 What I’m Currently Learning
+- **Node.js**
+- **Express.js**
+- **React.js**
+
+---
+
+## 👯 Collaboration
+I'm looking to collaborate on **open-source projects** and **web applications**.  
+Feel free to **reach out** if you have an interesting project. Let’s connect!
+
+---
+
+## 📫 How to Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hussein-mohamed-b10b89283/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hussein%20Mohamed-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
-<hr style="border: 1px solid #ddd;">
+---
 
-### 🌱 What I’m Currently Learning
-- <b>Node.js</b>
-- <b>Express.js</b>
-- <b>React.js</b>
+## ⚡ Fun Fact
+I’m always up for a challenge, whether it’s solving a coding problem or learning a new skill.  
+Outside of tech, I love **football**! ⚽️
 
-<hr style="border: 1px solid #ddd;">
+---
 
-### 👯 Collaboration
-<p style="margin: 0; padding: 0;">
-I'm looking to collaborate on open-source projects and web applications. If you have an interesting project, let’s connect!
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussein-Mohamed&show_icons=true&hide_border=true&theme=radical" />
+</div>
 
-<hr style="border: 1px solid #ddd;">
+---
 
-### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-mohamed-b10b89283/)
-
-<hr style="border: 1px solid #ddd;">
-
-### ⚡ Fun Fact
-<p style="margin: 0; padding: 0;">
-I’m always up for a challenge, whether it’s solving a coding problem or learning a new skill. Outside of tech, I love football.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Learning+Everyday...;Embracing+Challenges!;Let's+Collaborate!" />
+</div>
