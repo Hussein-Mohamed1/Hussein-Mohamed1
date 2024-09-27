@@ -22,13 +22,13 @@
 ---
 
 ## 🌱 What I’m Currently Learning
-- **Node.js**
-- **Express.js**
 - **React.js**
+- **Next.js**
+- **database**
 
 ---
 
-## 👯 Collaboration
+## 🧑🏻‍🤝‍🧑🏻 Collaboration
 I'm looking to collaborate on **open-source projects** and **web applications**.  
 Feel free to **reach out** if you have an interesting project. Let’s connect!
 
