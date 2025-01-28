@@ -22,11 +22,13 @@
 ---
 
 ## 🌱 What I’m Currently Learning
-- **React.js**
-- **Next.js**
-- **database**
+- **Artificial Intelligence (AI)**
+- **Machine Learning (ML)**
+- **Deep Learning**
+- **Data Science Tools**
 
 ---
+
 
 ## 🧑🏻‍🤝‍🧑🏻 Collaboration
 I'm looking to collaborate on **open-source projects** and **web applications**.  
