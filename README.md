@@ -39,7 +39,7 @@ Feel free to **reach out** if you have an interesting project. Let’s connect!
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hussein-mohamed-b10b89283/" target="_blank">
+  <a href="https://www.linkedin.com/in/hussein-mohamed-cu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hussein%20Mohamed-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
