@@ -22,10 +22,9 @@
 ---
 
 ## 🌱 What I’m Currently Learning
-- **Artificial Intelligence (AI)**
-- **Machine Learning (ML)**
-- **Deep Learning**
-- **Data Science Tools**
+- **Spring Boot Development**
+- **Operating Systems Fundamentals**
+- **Linux System Administration**
 
 ---
 
