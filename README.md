@@ -22,9 +22,10 @@
 ---
 
 ## 🌱 What I’m Currently Learning
-- **Spring Boot Development**
-- **Operating Systems Fundamentals**
-- **Linux System Administration**
+- **Spring Boot for Backend Development**
+- **Advanced React Concepts**, **Increasing Frontend Performance**
+- **NestJS**, **Next.js**, **TypeScript**
+
 
 ---
 
