@@ -24,7 +24,7 @@
 ## 🌱 What I’m Currently Learning
 - **Spring Boot for Backend Development**
 - **Advanced React Concepts**, **Increasing Frontend Performance**
-- **NestJS**, **Next.js**, **TypeScript**
+- **Nest.js**, **Next.js**, **TypeScript**
 
 
 ---
